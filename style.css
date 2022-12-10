@@ -38,8 +38,8 @@
 
 
       .error-wrap {
-          font-size: 100px;
-          margin-top: calc(50vh - 70px);
+          font-size: 150px;
+          margin-top: calc(50vh - 1200px);
           position: relative;
           text-align: center
       }
