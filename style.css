@@ -369,7 +369,7 @@
 
     @media (max-width: 576px) {
         html {
-            font-size: 14px;
+            font-size: 28px;
 
         }
         .error-wrap {
@@ -379,18 +379,18 @@
     
     @media (min-width: 768px) {
         html {
-            font-size: 16px;
+            font-size: 32px;
         }
     }
     
     @media (min-width: 992px) {
         html {
-            font-size: 18px;
+            font-size: 36px;
         }
     }
     
     @media (min-width: 1200px) {
         html {
-            font-size: 20px;
+            font-size: 40px;
         }
     }
